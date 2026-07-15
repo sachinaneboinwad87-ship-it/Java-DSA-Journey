@@ -2,6 +2,7 @@ package javadsa.basics.functions;
 
 
 
+
 public class PrimeNum {
 
     static void prime() {
