@@ -1,4 +1,4 @@
-package javadsa.basics;
+package javadsa.basics.operators;
 
 import java.util.Scanner;
 

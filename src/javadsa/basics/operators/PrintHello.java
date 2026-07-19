@@ -1,4 +1,4 @@
-package javadsa.basics;
+package javadsa.basics.operators;
 
 public class PrintHello {
   public  static void main() {

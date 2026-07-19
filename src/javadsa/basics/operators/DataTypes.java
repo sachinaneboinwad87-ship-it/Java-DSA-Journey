@@ -1,4 +1,4 @@
-package javadsa.basics;
+package javadsa.basics.operators;
 
 public class DataTypes {
     static void main() {
